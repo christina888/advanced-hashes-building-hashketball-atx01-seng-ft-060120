@@ -34,7 +34,7 @@ game_hash = {
       ]
   },
   
-  :away => {
+  :away = {
     :team_name => "",
     :colors => [""],
     :players => [
