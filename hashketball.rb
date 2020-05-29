@@ -28,7 +28,7 @@ game_hash => {
       {:assists => ""},
       {:steals => ""},
       {:blocks => ""},
-      {:slam_dunk => ""}
+      {:slam_dunks => ""}
     }]
   }
   
