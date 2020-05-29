@@ -30,7 +30,6 @@ game_hash => {
       {:blocks => ""},
       {:slam_dunk => ""}
     }]
-    
   }
   
   
