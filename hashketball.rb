@@ -12,7 +12,7 @@ game_hash => {
       {:assists => ""},
       {:steals => ""},
       {:blocks => ""},
-      {:slam_drunk => ""}
+      {:slam_dunks => ""}
       ]
   },
   
