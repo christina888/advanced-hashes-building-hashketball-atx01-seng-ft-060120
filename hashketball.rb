@@ -18,7 +18,7 @@ game_hash => {
   
   :away => {
     :team_name => "",
-    :colors => "",
+    :colors => [""],
     :players => [
       {:player_name => ""},
       {:number => ""},
