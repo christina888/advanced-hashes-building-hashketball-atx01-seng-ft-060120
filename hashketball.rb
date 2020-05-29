@@ -14,7 +14,7 @@ game_hash => {
       {:blocks => ""},
       {:slam_drunk => ""}
       ]
-  }
+  },
   
   :away => {
     :team_name => 
